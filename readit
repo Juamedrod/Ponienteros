@@ -1,0 +1,8 @@
+import ameba
+
+
+
+Void Start()
+{
+  Empezamos();
+}
