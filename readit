@@ -1,6 +1,0 @@
-import testingGithub
-
-Void Start()
-{
-  Empezamos();
-}
